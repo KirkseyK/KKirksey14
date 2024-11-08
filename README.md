@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @KKirksey14
-- 👀 I’m interested in Coding!
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-KKirksey14/KKirksey14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A Cloud Infrastructure Engineer passionate about the tools that allows me to cofigure cloud resourcs.
